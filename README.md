@@ -1,6 +1,6 @@
 # Student name and Group
-Student Name: Akhmambetov Nurzhakhan
-Student Group: SE-2204
+- Student Name: Akhmambetov Nurzhakhan
+- Student Group: SE-2204
 
 # System Information Retrieval Program
 

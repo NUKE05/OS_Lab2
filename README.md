@@ -9,20 +9,20 @@ This Python program retrieves system information including OS information, CPU i
 
 ## Installation 
 
-1. Clone the repository to your local machine: 
+1. Clone the repository to your local machine: "https://github.com/NUKE05/OS_Lab2"
 2. Install the required Python packages:
     - pip install psutil 
     - pip install colorama
 
 ## How to Run
-1. Navigate to the directory where you cloned the repository:
+
+1. Navigate to the directory where you cloned the repository
 2. Run the Python script
 3. You will see the system information printed to the console.
 
 ## Customize Appearance (Optional)
 
 If you want to customize the appearance of the output, you can modify the script `program.py`:
-
 - Change colors or formatting using `colorama` package.
 - Modify the structure of printed information according to your preferences.
 

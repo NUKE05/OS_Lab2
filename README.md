@@ -1,3 +1,7 @@
+# Student name and Group
+Student Name: Akhmambetov Nurzhakhan
+Student Group: SE-2204
+
 # System Information Retrieval Program
 
 This Python program retrieves system information including OS information, CPU information, memory usage, disk space, network information and more in your terminal.
